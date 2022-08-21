@@ -1,0 +1,12 @@
+@tailwind base;
+
+@layer base {
+  body {
+    @apply font-sans;
+    @apply font-normal;
+    @apply text-base;
+    @apply leading-normal;
+    @apply tracking-normal;
+    @apply text-darkest-blue;
+  }
+}
