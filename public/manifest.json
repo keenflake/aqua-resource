@@ -1,0 +1,16 @@
+{
+  "name": "Аква-Ресурс — доставка воды по Санкт-Петербургу и Ленинградской области",
+  "short_name": "Аква-Ресурс",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#527fb8",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo-512w.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
